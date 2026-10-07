@@ -6,6 +6,8 @@
 }
 
 /* Hide additional window controls */
+#main-window[titlepreface*="[Sidebery] "] #sidebar-button,
+#main-window[titlepreface*="[Sidebery] "] #tabs-newtab-button,
 #main-window[titlepreface*="[Sidebery] "] .tabs-alltabs-button,
 #main-window[titlepreface*="[Sidebery] "] .titlebar-spacer,
 #main-window[titlepreface*="[Sidebery] "] .titlebar-buttonbox-container {
